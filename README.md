@@ -7,7 +7,7 @@
 
 <h3> Tech Stack</h3>
 
-- 💻 HTML | CSS | Bootstrap | Node.js | ReactJS
+- 💻 HTML | CSS | Bootstrap | PHP |  Node.js | ReactJS
 - 🛢  MySQL | MongoDB
 - 🔧 Git | Postman API
 
