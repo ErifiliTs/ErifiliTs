@@ -1,9 +1,8 @@
 
 <h3> About Me </h3>
 
-- ⚡ Hi, I’m Erifili
-- ⚙️ I’m looking to collaborate on MERN stack projects
-- 🌱 I'm currently learning Docker | Kubernetes
+- ⚡ Hello world, I’m Erifili.
+- ⚙️ I'm looking forward to collaborating on JavaScript projects. In addition, I'm interested in CI | CD pipelines with Docker & Kubernetes.
 
 <h3> Tech Stack</h3>
 
