@@ -11,7 +11,7 @@
 - JavaScript | Node.js | ReactJS
 - MySQL | MongoDB
 - Git | Postman API
-- Docker | Kubernetes
+- Linux | Docker | Kubernetes
 
 <!---
 ErifiliTs/ErifiliTs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
