@@ -3,11 +3,12 @@
 
 - Hello world, I’m Erifili.
 - I'm looking forward to collaborating on JavaScript projects. 
-- In addition, I'm interested in CI | CD pipelines with Docker & Kubernetes.
+- In addition, I'm interested in CI | CD pipelines.
 
 <h3> Tech Stack</h3>
 
-- HTML | CSS | Bootstrap | PHP |  Node.js | ReactJS
+- HTML | CSS | Bootstrap 
+- JavaScript | Node.js | ReactJS
 - MySQL | MongoDB
 - Git | Postman API
 - Docker | Kubernetes
